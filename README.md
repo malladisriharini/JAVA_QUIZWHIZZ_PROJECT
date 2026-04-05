@@ -39,7 +39,7 @@ QuizWhizz is a Java-based quiz application developed using Swing and MySQL. It a
 
 ## 👥 Team
 
-M.SRI HARINI
-T.V.R INDU BHARGAVI
-B.SRUTHI
-CH.PALLAVI
+* M.SRI HARINI
+* T.V.R INDU BHARGAVI
+* B.SRUTHI
+* CH.PALLAVI
